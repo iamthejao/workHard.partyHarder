@@ -11,8 +11,7 @@ import scrapper
 token = ""
 
 # House Name : house identification (from page URL)
-houses = {"Fosfobox": "fosfoboxbarclub"}
-#          "Matriz": "casadamatriz"}
+houses = {"Teatro Odisseia":"teatroodisseia"}
 
 friends = ["You", "Friend 1", "Friend 2", "Friend 3"]
 
