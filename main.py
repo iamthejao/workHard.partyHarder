@@ -14,8 +14,7 @@ token = ""
 houses = {"Fosfobox": "fosfoboxbarclub"}
 #          "Matriz": "casadamatriz"}
 
-friends = [u"João Pedro Augusto", "Roberto Bandeira", "Ulisses Figueiredo",
-           "Christiano Lo Bianco Clementino", "Cristian Ghiel", "Robson Tavares"]
+friends = ["You", "Friend 1", "Friend 2", "Friend 3"]
 
 message = "\n".join(friends)
 
